@@ -1,5 +1,5 @@
 {
-  "name": "demo-library-react",
+  "name": "demo-library-react-v2",
   "version": "0.0.1",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
